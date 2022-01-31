@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  font-size: 18px;
+  line-height: 1.2rem;
+  font-family: 'Work Sans', sans-serif;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.nav {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 34px;
+}
