@@ -20,3 +20,7 @@ main {
 #bio {
   margin-bottom: 40px;
 }
+
+#portfolio li {
+  margin: 5px 0;
+}
