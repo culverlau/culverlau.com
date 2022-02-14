@@ -24,3 +24,7 @@ main {
 #portfolio li {
   margin: 5px 0;
 }
+
+#portfolio > ul > li {
+  margin: 15px 0;
+}
