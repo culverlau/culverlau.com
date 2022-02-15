@@ -6,6 +6,7 @@ html {
 
 main {
   margin: 40px auto;
+  padding: 0 20px;
   max-width: 800px;
 }
 
@@ -27,4 +28,17 @@ main {
 
 #portfolio > ul > li {
   margin: 15px 0;
+}
+
+.headshot {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  overflow:hidden;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.headshot img {
+  width: 100%;
 }
